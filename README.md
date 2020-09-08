@@ -87,6 +87,7 @@
 * [Manoj Srinivasan's channel](https://www.youtube.com/user/sjonam/videos)
 * [Ross Miller's channel](https://www.youtube.com/channel/UCO_H7aZoIcwZiNc4KjiQQkg/videos) 
 * [Stuart McErlain-Naylor channel](https://www.youtube.com/channel/UCmG-bd1JL1ACP7hMzIUXwOg)
+* [NeuromechTV channel (content in english, portuguese, and spanish languages](https://www.youtube.com/neuromechTV)
 
 ## Videos :video_camera:
 * [CNB-ASB Muscle Workshop](https://www.youtube.com/watch?v=Ur9wYYR0nac&feature=youtu.be): presentations on the topic `Integrative Muscle Modelling for Neuromechanics`.
